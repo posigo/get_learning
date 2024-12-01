@@ -5,4 +5,14 @@
  - add
  - commit
  - push
- 3.
+ 3. Команда гиту начать отслеживать изменения в текущей директории
+ gin init
+ Initialized empty Git repository in C:/Projects/ItProgress/06_Python_Git/Python_Git/console_test/.git/
+4. Статус фалов в гите
+git status
+Пустые папки (без файлов) не отслеживаются
+5. Начать отслеживать изменения файла
+git add [filename] (отслеживать filename)
+git add . (отслеживать сра всё)
+6. История коммитов
+git log
