@@ -16,3 +16,6 @@ git add [filename] (отслеживать filename)
 git add . (отслеживать сра всё)
 6. История коммитов
 git log
+7. Переключение на ветку
+git checkout [branch_name] переключение на ветку branch_name
+git checkout -b [branch_name] (создать ветку branch_name, если её нету)
