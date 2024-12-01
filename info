@@ -1,7 +1,8 @@
  1. Клонировать репазиторий
  git clone [link]
  git clone https://github.com/posigo/get_learning.git
- 2.
+ 2. Заливка в удалённый репозиторий
  - add
  - commit
  - push
+ 3.
